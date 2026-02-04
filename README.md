@@ -29,3 +29,13 @@ The purpose of this dashboard is to evaluate:<br>
 • <b>Device Analysis:</b> A breakdown showing a near-even split between Mobile (35%), Laptop (34%), and T.V. (31%).<br>
 • <b>Subscription Type:</b> A comparison showing that Movies (66%) lead over TV Shows (34%) in subscriber preference.<br>
 • <b>Global Reach:</b> A geographic heatmap visualizing subscriber density across the globe.
+
+---
+### 👤 Author
+<b>Vishesh Mittal</b><br>
+<a href="https://www.linkedin.com/in/visheshmittal05/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://visheshmittal01.github.io/portfolio/">
+  <img src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logoColor=white" alt="Website">
+</a>
